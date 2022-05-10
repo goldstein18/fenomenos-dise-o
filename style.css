@@ -218,6 +218,10 @@ font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
   
 
 }
+.ga {
+    font-family:"halyard-text"; 
+}
+
 .somos { 
     font-family:"nimbus-roman" !important;
     font-style: normal;
